@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2010 by Your Company
+
+
+# these should not be edited
+name: inputview
+moduleid: org.appcelerator.inputview
+guid: 91d02279-e05d-4ab9-bc70-1e9c2c48b65a
+platform: iphone
+minsdk: 1.4.1
