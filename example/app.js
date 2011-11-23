@@ -10,7 +10,7 @@ var window = Ti.UI.createWindow({
 });
 window.open();
 
-var inputview = require('org.appcelerator.inputview');
+var InputView = require('org.appcelerator.inputview');
 
 
 var myview = Ti.UI.createView({
@@ -31,7 +31,7 @@ var tf = Titanium.UI.createTextField({
 	borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
 });
 
-inputview.attach({
+InputView.attach({
 	inputview: myview,
 	textview: tf
 });
