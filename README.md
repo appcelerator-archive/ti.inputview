@@ -1,2 +1,2 @@
-ti.inputview [![Build Status](https://travis-ci.org/appcelerator-modules/ti.inputview.svg)](https://travis-ci.org/appcelerator-modules/ti.inputview)
+ti.inputview [![Build Status](https://magnum.travis-ci.com/appcelerator-modules/ti.inputview.svg?token=C6poLybMz9ERuFX5KZsz)](https://magnum.travis-ci.com/appcelerator-modules/ti.inputview)
 ============
